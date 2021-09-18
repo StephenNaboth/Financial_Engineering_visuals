@@ -1,9 +1,8 @@
 h1{
     font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: blue;
-    text-align: center;
+
 }
+
 div{
     text-align: center;
 }
@@ -14,3 +13,4 @@ button{
     border-radius: 4px;
     
 }
+
