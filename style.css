@@ -1,5 +1,7 @@
 h1{
     font-size: 30px;
+    text-allign: center;
+    text-size: 32px;
 
 }
 
@@ -12,5 +14,9 @@ button{
     background: chartreuse;
     border-radius: 4px;
     
+}
+p{
+    margin: 5px;
+    background: yellow;
 }
 
