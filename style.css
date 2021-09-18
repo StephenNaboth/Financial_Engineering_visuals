@@ -4,12 +4,3 @@ h1{
     color: blue;
     text-align: center;
 }
-p{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 600;
-    font-style: oblique;
-    color: brown;
-    background: rgb(214, 217, 221);
-    padding: 5%;
-
-}
